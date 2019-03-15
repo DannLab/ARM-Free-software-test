@@ -29,8 +29,8 @@
 int
 main(int argc, char* argv[])
 {
-  // At this stage the system clock should have already been configured
-  // at high speed.
+  // New comment in main section
+  // Check me out
 
   // Infinite loop
   while (1)
